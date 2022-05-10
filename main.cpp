@@ -78,7 +78,7 @@ int main()
     }
    // std::string path = pathStart + fileName;
     image.close();
-
+    std::cout << "Image created successfully" << std::endl;
     return 0;
 }
 
