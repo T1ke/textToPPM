@@ -34,7 +34,7 @@ void writeTextToImage(std::ofstream& image, std::string input)
 
         }
     }
-    letterPrints::F(image);
+    letterPrints::N(image);
 
 }
 
